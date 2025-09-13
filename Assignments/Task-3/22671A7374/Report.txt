@@ -1,0 +1,22 @@
+Assignment 3 - Image GUI App
+Student: Nageshwari
+Roll No: 22671A7374
+
+Objective:
+Build a GUI app to upload, process and analyze images interactively.
+
+Files:
+- app.py
+- notebook.ipynb
+- requirements.txt
+- README.md
+
+How to run:
+pip install -r requirements.txt
+streamlit run app.py
+
+Screenshots:
+(Attach screenshots here.)
+
+Conclusion:
+Provides interactive image processing and analysis.
